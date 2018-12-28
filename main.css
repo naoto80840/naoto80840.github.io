@@ -1,8 +1,17 @@
-.container {
+h1, h2, h3 {
+	text-align: center;
+}
+p {
+	font-size: 18px
+}
+small {
+	font-size: 12px
+}
+.container, .logo {
 	width: 640px;
 	margin-right: auto;
 	margin-left: auto;
 }
-h1, h2, h3 {
+.center {
 	text-align: center;
 }
