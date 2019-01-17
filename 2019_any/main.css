@@ -29,3 +29,11 @@ pre {
 	white-space: pre-wrap;
 	word-wrap: break-word;
 }
+.image-round{
+  border-radius: 50%;
+}
+.sns-link{
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+}
