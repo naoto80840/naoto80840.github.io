@@ -37,3 +37,12 @@ pre {
 	color: #333;
 	font-weight: bold;
 }
+.notice{
+	text-align: center;
+	font-size: 20px;
+	color: #f33;
+	margin: 30px 0px 30px 0;
+}
+.align_right{
+	text-align: right;
+}
